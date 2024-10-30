@@ -1,3 +1,8 @@
 hr{
     margin: 5px;
 }
+body{
+    cursor: crosshair;
+    background-color: rgb(67, 67, 67);
+    color: bisque;
+}
